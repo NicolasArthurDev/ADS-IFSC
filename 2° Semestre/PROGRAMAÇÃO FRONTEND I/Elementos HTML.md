@@ -1,7 +1,7 @@
 - Elementos iniciais
 ![[FE1 - 4. Elementos (genéricos, id, escape, link, img) e Validação.pptx.pdf]]
 
-- Tabelas
+- Tabelas e Listas
 ![[FE1 - 5. Elementos (tabela, midia).pptx (1).pdf]]
 
 - Formulários
