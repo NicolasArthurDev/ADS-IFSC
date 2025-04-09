@@ -13,7 +13,48 @@ Cada pasta contém:
 - 💡 Projetos desenvolvidos durante o semestre
 
 ---
-
+```
+📦 Análise e Desenvolvimento de Sistemas - IFSC
+├── 📁 1° Semestre
+│   ├── 📘 FUNDAMENTOS DA MATEMÁTICA
+│   ├── 🖥️ FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
+│   ├── 🇺🇸 INGLÊS INSTRUMENTAL I
+│   ├── 💡 INTRODUÇÃO À COMPUTAÇÃO
+│   ├── 🧠 LÓGICA MATEMÁTICA
+│   └── 🔍 PENSAMENTO COMPUTACIONAL E ALGORITMOS
+│
+├── 📁 2° Semestre
+│   ├── 🤝 ATIVIDADES DE EXTENSÃO I
+│   ├── 🗣️ COMUNICAÇÃO E EXPRESSÃO
+│   ├── 📊 FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA
+│   ├── 🎨 PROGRAMAÇÃO FRONTEND I
+│   ├── 🧱 PROGRAMAÇÃO ORIENTADA A OBJETOS
+│   └── 🌐 REDES DE COMPUTADORES
+│
+├── 📁 3° Semestre
+│   ├── 🗄️ BANCO DE DADOS
+│   ├── 🌿 ESTRUTURA DE DADOS
+│   ├── 🛠️ ENGENHARIA DE SOFTWARE I
+│   ├── 🎨 PROGRAMAÇÃO FRONTEND II
+│   └── 🔐 SEGURANÇA DA INFORMAÇÃO
+│
+├── 📁 4° Semestre
+│   ├── 🤝 ATIVIDADES DE EXTENSÃO II
+│   ├── 🛠️ ENGENHARIA DE SOFTWARE II
+│   ├── 🧑‍💻 INTERFACE HUMANO-COMPUTADOR
+│   ├── ⚙️ PROGRAMAÇÃO BACKEND
+│   └── 🧩 SISTEMAS OPERACIONAIS
+│
+└── 📁 5° Semestre
+    ├── 🇺🇸 INGLÊS INSTRUMENTAL II
+    ├── 🤟 LIBRAS
+    ├── 🧠 TÓPICOS ESPECIAIS
+    ├── 🤝 ATIVIDADES DE EXTENSÃO III
+    ├── 📈 INTRODUÇÃO À CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA
+    ├── ☁️ INFRAESTRUTURA E SERVIÇOS EM NUVEM
+    └── 📱 PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS
+```
+---
 ## 📌 Objetivo
 
 - Consolidar aprendizados do curso de forma prática e acessível.
