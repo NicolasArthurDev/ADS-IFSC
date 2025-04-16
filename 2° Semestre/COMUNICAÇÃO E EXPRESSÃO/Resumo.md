@@ -2,3 +2,6 @@ O resumo depende totalmente de um outro texto (Ultra dependente, semelhante a re
 - Texto fonte $\to$ Resumo
 É necessário fazer referencia direta com o texto fonte.
 ### Resumo $\neq$ Ato de resumir
+
+## Próximo tópico
+[[]]
