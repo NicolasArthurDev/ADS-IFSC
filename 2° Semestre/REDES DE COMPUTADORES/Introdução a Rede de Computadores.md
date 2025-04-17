@@ -42,7 +42,3 @@ Camadas:
 
 ## Capítulos
 - [[Capítulo 1 - Redes de computadores e a Internet]]
-- [[Capítulo 2 - Camada de aplicação]]
-- [[Capítulo 3 - Camada de transporte]]
-- [[Capítulo 4 e 5 - A camada de Rede]]
-- [[Capítulo 6 - Camada de Enlace]]

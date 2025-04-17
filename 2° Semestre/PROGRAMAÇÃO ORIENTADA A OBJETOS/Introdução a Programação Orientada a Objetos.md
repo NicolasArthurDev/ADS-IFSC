@@ -3,6 +3,5 @@
 ![[poo-apresentacao.pdf]]
 
 ## Próximos tópicos
-- [[Sistema de Controle de Versão (Revisão)]] - LAB 01
-- [[Linguagem Java (Revisão)]] - LAB 02
+- [[Revisão de Algoritmos]]
 - [[Ferramentas de Desenvolvimento (IDE, depuração e construção de projetos com Gradle)]]

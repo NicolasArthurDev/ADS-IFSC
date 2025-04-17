@@ -4,4 +4,4 @@ O resumo depende totalmente de um outro texto (Ultra dependente, semelhante a re
 ### Resumo $\neq$ Ato de resumir
 
 ## Próximo tópico
-[[]]
+[[Resenha]] 
