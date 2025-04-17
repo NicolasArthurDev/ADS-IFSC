@@ -9,6 +9,7 @@ Será visto nestes tópicos os seguintes assuntos:
 ## Próximos tópicos
 - [[Semântica no HTML5]]
 - [[Elementos HTML]] 
+- [[Aplicando CSS ao HTML]]
 
 ## Atividades práticas
 - [[Exercício HTML |Exercício HTML em grupo]]
