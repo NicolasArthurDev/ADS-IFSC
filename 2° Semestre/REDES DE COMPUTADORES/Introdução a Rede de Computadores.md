@@ -40,5 +40,5 @@ Camadas:
 2 - Enlace
 1 - Física
 
-## Capítulos
+## Próximo tópico
 - [[Capítulo 1 - Redes de computadores e a Internet]]
