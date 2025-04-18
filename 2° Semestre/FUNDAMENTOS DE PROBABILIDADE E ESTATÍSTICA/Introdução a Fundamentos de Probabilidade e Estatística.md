@@ -9,4 +9,4 @@ Livro professor Jesué.
 ![[segredos-da-estatistica-para-engenharia-10-abril-2019.pdf]]
 
 ## Próximos tópicos
-- [[Conceitos básicos e Medidas de tendência central]] 
+- [[Conceitos básicos e Medidas de tendência central - Média geral, Moda e Mediana]] 
