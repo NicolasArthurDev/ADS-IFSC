@@ -1,5 +1,4 @@
 Conteúdo anterior [[Introdução a Tradução]]
-Prova: [[AVALIAÇÃO 3 - INGLÊS INSTRUMENTAL]]
 
 ---
 ![[Aula 13 - MACHINE TRANSLATION.pdf]]
@@ -21,5 +20,3 @@ Prova: [[AVALIAÇÃO 3 - INGLÊS INSTRUMENTAL]]
 > Best,  
 > _Bruno._
 
-
-[[Detecção automática de fatores (potenciais) no texto de origem levam a preconceito de gênero em traduções de maquinas.]]
