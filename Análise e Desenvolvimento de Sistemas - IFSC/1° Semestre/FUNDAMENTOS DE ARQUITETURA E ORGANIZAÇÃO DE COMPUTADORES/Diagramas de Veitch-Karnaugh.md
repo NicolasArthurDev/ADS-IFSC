@@ -1,1 +1,0 @@
-![[05 - Diagramas de Veitch-Karnaugh.pdf]]
