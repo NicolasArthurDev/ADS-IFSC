@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/FUNDAMENTOS DA MATEMÁTICA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES\"",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/INGLÊS INSTRUMENTAL I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 28415
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/INTRODUÇÃO À COMPUTAÇÃO\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16750080
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/LÓGICA MATEMÁTICA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/PENSAMENTO COMPUTACIONAL E ALGORITMOS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12255487
+      }
+    },
+    {
+      "query": "file: Semestre",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "file: Análise",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/REDES DE COMPUTADORES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12255487
+      }
+    },
+    {
+      "query": "path: \"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/COMUNICAÇÃO E EXPRESSÃO\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16750080
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/ATIVIDADES DE EXTENSÃO I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/PROGRAMAÇÃO FRONTEND I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 1.02193347193347,
+  "collapse-forces": false,
+  "centerStrength": 0.795218295218295,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.14973432430987546,
+  "close": true
+}
