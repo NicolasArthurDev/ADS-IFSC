@@ -1,4 +1,4 @@
-Proposições Singulares - [[Lógica Proposicional - Conceitos Iniciais e Conectivos |Lógica Proposicional]]  
+Proposições Singulares - [[Lógica Proposicional - Conceitos Iniciais e Conectivos|Lógica Proposicional]]  
 
 Lógica de Predicados
 - Quantificadores

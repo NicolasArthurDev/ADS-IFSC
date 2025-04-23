@@ -12,7 +12,7 @@ Será visto nestes tópicos os seguintes assuntos:
 - [[Aplicando CSS ao HTML]]
 
 ## Atividades práticas
-- [[Exercício HTML |Exercício HTML em grupo]]
+- [[Exercício HTML|Exercício HTML em grupo]]
 
 
 
