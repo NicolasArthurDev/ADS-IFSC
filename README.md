@@ -72,3 +72,5 @@ Você pode utilizar e adaptar o conteúdo para fins **não comerciais**, desde q
 ---
 
 Feito com 💚 por **Nicolas Arthur Raulino Oliveira**!
+
+---
