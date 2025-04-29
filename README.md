@@ -4,7 +4,7 @@ Repositório pessoal com slides, atividades, projetos e anotações do curso de 
 
 Organizado por semestres, este repositório tem como objetivo documentar minha jornada acadêmica, compartilhar conhecimento e servir como base para revisões, estudos e consultas futuras.
 
-**OBS**: Feito para ser utilizado no **Obsidian**
+**OBS**: Feito para ser utilizado no **Obsidian**.
 
 ---
 Cada pasta contém:
