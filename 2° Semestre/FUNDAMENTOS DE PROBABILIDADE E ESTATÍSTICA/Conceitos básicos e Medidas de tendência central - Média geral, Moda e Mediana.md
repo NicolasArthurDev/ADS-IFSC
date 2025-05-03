@@ -13,4 +13,6 @@
 
 ## Próximos Conteúdos
 [[Medidas de Dispersão]] 
-[[Simulado com Gabarito]] 
+
+
+![[Simulado com Gabarito]] 
