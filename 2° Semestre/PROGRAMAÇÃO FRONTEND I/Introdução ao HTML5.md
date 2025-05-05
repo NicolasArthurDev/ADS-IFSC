@@ -7,7 +7,6 @@ Será visto nestes tópicos os seguintes assuntos:
 - Elementos (tabela, mídia)
 - Elementos (formulário)
 ## Próximos tópicos
-- [[Semântica no HTML5]]
 - [[Elementos HTML]] 
 - [[Aplicando CSS ao HTML]]
 
