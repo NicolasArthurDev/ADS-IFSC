@@ -10,7 +10,7 @@ Organizado por semestres, este repositório tem como objetivo documentar minha j
 Cada pasta contém:
 - 📑 Slides e materiais de aula
 - 📝 Atividades e resoluções
-- 💡 Projetos desenvolvidos durante o semestre
+- 💡 Projetos desenvolvidos e ideias criadas durante o semestre
 
 ---
 ```
