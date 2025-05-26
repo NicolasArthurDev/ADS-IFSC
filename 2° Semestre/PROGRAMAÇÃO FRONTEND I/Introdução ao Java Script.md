@@ -1,3 +1,6 @@
 ![[FE1 - 13. Introdução ao JS.pdf]]
 
-[[Sintaxe do JavaScript]] 
+
+## Próximo tópico
+- [[Sintaxe do JavaScript]] 
+- [[Aplicando JavaScript ao HTML]] 

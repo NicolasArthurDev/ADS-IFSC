@@ -9,6 +9,7 @@ Será visto nestes tópicos os seguintes assuntos:
 ## Próximos tópicos
 - [[Elementos HTML]] 
 - [[Aplicando CSS ao HTML]]
+- [[Aplicando JavaScript ao HTML]]
 
 ## Atividades práticas
 - [[Exercício HTML|Exercício HTML em grupo]]
