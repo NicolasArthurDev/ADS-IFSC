@@ -4,4 +4,7 @@
 ## Parte 2
 ![[FE1 - 15. Sintaxe do JS pt 2.pdf]]
 
-[[Tarefa - Exercício 1 de JavaScript]] 
+
+## Próximos tópicos
+- [[Tarefa - Exercício 1 de JavaScript]]  
+- [[Funções e Métodos de Arrays]] 
