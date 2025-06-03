@@ -150,3 +150,6 @@ fetch('./data.json')
     }
 
 ```
+
+## Próximo Exercício
+- [[Desafio JavaScript - Banco de dados não-relacional]] 
