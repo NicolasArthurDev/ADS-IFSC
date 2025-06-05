@@ -2,3 +2,6 @@
 
 ## Tarefa
 [[Tarefa - Exercício 3 de JavaScript]] 
+
+## Próximo tópico
+- [[Manipulando o DOM (Introdução HTML + CSS + JavaScript)]] 
