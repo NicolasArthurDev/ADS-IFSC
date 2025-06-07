@@ -4,7 +4,7 @@ https://www.ifsc.edu.br/acervo-de-ebooks
 
 ![[Aula_Inaugural_EST_25_1.pdf]]
 
-
+[[Segredos da Estatística para Engenharia]] 
 Livro professor Jesué.
 ![[segredos-da-estatistica-para-engenharia-10-abril-2019.pdf]]
 
