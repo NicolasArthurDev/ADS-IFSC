@@ -13,7 +13,7 @@ $P(A) = P(1-2) = P^2$
 $P(B) = P(5) = P$
 $P(C) = P(3-4) = P^2$
 
-#### *Regra da união de conjuntos*
+#### *Regra da intersecção de conjuntos*
 $P(A \cup B) = P(A) + P(B) - P(A\cap B)$ 
 
 #### *Calculando as probabilidades e desconsiderando a intersecção*
