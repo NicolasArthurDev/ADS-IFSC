@@ -1,6 +1,6 @@
 # ADS-IFSC
 
-Repositório pessoal com slides, atividades, projetos e anotações do curso de **Análise e Desenvolvimento de Sistemas** no **IFSC - Instituto Federal de Santa Catarina**.
+Repositório pessoal com slides, atividades, projetos e anotações do curso de **Análise e Desenvolvimento de Sistemas** do **IFSC - Instituto Federal de Santa Catarina** no campus São José.
 
 Organizado por semestres, este repositório tem como objetivo documentar minha jornada acadêmica, compartilhar conhecimento e servir como base para revisões, estudos e consultas futuras.
 
