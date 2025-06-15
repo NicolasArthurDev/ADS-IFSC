@@ -1,6 +1,6 @@
 # ADS-IFSC
 
-Repositório pessoal com slides, atividades, projetos e anotações do curso de **Análise e Desenvolvimento de Sistemas** no **IFSC - Instituto Federal de Santa Catarina**.
+Repositório pessoal com slides, atividades, projetos e anotações do curso de **Análise e Desenvolvimento de Sistemas** do **IFSC - Instituto Federal de Santa Catarina** no campus São José.
 
 Organizado por semestres, este repositório tem como objetivo documentar minha jornada acadêmica, compartilhar conhecimento e servir como base para revisões, estudos e consultas futuras.
 
@@ -46,9 +46,9 @@ Cada pasta contém:
 │   └── 🧩 SISTEMAS OPERACIONAIS
 │
 └── 📁 5° Semestre
-    ├── 🇺🇸 INGLÊS INSTRUMENTAL II
-    ├── 🤟 LIBRAS
-    ├── 🧠 TÓPICOS ESPECIAIS
+    ├── 🇺🇸 INGLÊS INSTRUMENTAL II (OPTATIVA)
+    ├── 🤟 LIBRAS (OPTATIVA)
+    ├── 🧠 TÓPICOS ESPECIAIS (OPTATIVA)
     ├── 🤝 ATIVIDADES DE EXTENSÃO III
     ├── 📈 INTRODUÇÃO À CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA
     ├── ☁️ INFRAESTRUTURA E SERVIÇOS EM NUVEM
