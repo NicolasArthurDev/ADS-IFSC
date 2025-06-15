@@ -1,4 +1,4 @@
-1. Multiplexação e demultiplexação
+ 1. Multiplexação e demultiplexação
 2. UDP - User Datagram Protocol
 3. Princípios da transferência confiável de dados
 4. TCP - Transmission Control Protocol
