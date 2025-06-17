@@ -12,7 +12,11 @@ Será visto nestes tópicos os seguintes assuntos:
 - [[Aplicando JavaScript ao HTML]]
 
 ## Atividades práticas
-- [[Exercício HTML|Exercício HTML em grupo]]
+
+![[fe1_exercicio_html.pdf]]
+
+
+
 
 
 
