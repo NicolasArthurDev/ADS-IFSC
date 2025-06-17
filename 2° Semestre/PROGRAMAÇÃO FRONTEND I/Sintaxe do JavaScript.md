@@ -6,11 +6,15 @@
 
 
 ## Próximos tópicos
-- [[Tarefa - Exercício 1 de JavaScript]]  
 - [[Funções e Métodos de Arrays]] 
 
 ## Exercícios
+
+### Lista 1: JavaScript
+
 ![[fe1_js_lista_1.pdf]]
 
 
-- [[Tarefa - Exercício 2 de JavaScript]] 
+### Lista 2: JavaScript
+
+![[FR1_Lista2_JavaScript.pdf]]

@@ -1,5 +1,9 @@
 ![[FE1 - Finalizando com estilo.pdf]]
 
+## Quiz revisão
+
+![[Revisão Prova01.pdf]]
+
 ## Próximo tópico
-[[Quiz de revisão]] 
 [[Manipulando o DOM (Introdução HTML + CSS + JavaScript)]] 
+
