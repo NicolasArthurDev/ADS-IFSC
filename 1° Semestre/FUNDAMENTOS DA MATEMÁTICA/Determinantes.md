@@ -55,5 +55,7 @@ g & h & i & g & h \\
 $$aei + bfg + cdh$$
 $$- (ceg + afh + bdi )$$
 
-$$\det(A) = aei + bfg + cdh - ceg - afh - bdi$$]
+$$\det(A) = aei + bfg + cdh - ceg - afh - bdi$$
+
+
 
