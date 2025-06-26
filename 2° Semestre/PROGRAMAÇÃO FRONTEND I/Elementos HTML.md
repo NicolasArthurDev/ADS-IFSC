@@ -1,4 +1,4 @@
-#### Elementos iniciais
+#### Validação, Elementos Genéricos, Atributos de Identificação, Caracteres de Escape, Links e Imagens
 
 ![[FE1 - 4. Elementos (genéricos, id, escape, link, img) e Validação.pptx.pdf]]
 
