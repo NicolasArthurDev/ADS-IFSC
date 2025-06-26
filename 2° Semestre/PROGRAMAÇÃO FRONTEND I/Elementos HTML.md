@@ -3,7 +3,7 @@
 ![[FE1 - 4. Elementos (genéricos, id, escape, link, img) e Validação.pptx.pdf]]
 
 <hr>
-#### Tabelas e Listas
+#### Tabelas, Míd Listas
 
 ![[FE1 - 5. Elementos (tabela, midia).pptx (1).pdf]]
 
