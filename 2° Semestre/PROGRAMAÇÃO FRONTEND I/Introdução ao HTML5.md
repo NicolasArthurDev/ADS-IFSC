@@ -8,8 +8,6 @@ Será visto nestes tópicos os seguintes assuntos:
 - Elementos (formulário)
 ## Próximos tópicos
 - [[Semântica no HTML5]] 
-- [[Aplicando CSS ao HTML]]
-- [[Aplicando JavaScript ao HTML]]
 
 ## Atividades práticas
 
