@@ -1,6 +1,6 @@
 ![[poo-colecoes.pdf]]
 
-[[Laboratório 04 - Coleções]] 
+ ![[poo-laboratorio-colecoes.pdf]]
 
 ## Próximo tópico
 - [[Associação entre classes]] 
