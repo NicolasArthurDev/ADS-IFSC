@@ -2,4 +2,4 @@
 
 ## Disciplinas
 ### Estrutura de Dados:
-- [[Estrutura de Dados]] 
+- [[Introdução a Estrutura de Dados]] 
