@@ -1,7 +1,7 @@
 ### Semestres:
 - [[Primeiro Semestre]]
 - [[Segundo Semestre]]
-- 
+- [[Terceiro Semestre]]
 
 ### Calendário Acadêmico:
 
