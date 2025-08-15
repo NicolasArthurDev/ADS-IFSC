@@ -2,3 +2,13 @@
 
 **Super Chave**: Garantir unicidade
 **Chave Candidata**: Atributos mínimos e mantém a unicidade
+**Chave Primária**: Escolhe uma chave candidata
+
+>[!TIP]
+>C.P $\subset$ C.C $\subset$ S.C
+>---
+>**Chave Primária** está contida no conjunto de **Chaves Candidatas** que está contida no conjunto de **Super Chaves**
+>
+
+ 
+
