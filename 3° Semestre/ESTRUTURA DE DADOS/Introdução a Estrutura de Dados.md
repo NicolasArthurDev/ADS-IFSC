@@ -7,3 +7,6 @@
 - Prova peso 4
 - Equipe de projeto de numero máximo é 3, mas normalmente 2 membros
 - Provas em Laboratório usando IDE 
+
+## Próximos Tópicos
+[[Filas e pilhas]] 
