@@ -39,5 +39,27 @@ gradle test --tests TestFilaSimples
 - [Uma implementação da pilha](https://moodle.ifsc.edu.br/mod/page/view.php?id=313700)
     - Refaça os exercícios da aula anterior usando sua pilha!
 
+## 28/08
+- Usando sua pilha:
+    - [Balanceador de texto](https://moodle.ifsc.edu.br/mod/vpl/view.php?id=313731)
+    - [Caminhos de arquivos](https://moodle.ifsc.edu.br/mod/vpl/view.php?id=313728)
+    - [DESAFIO: resolvedor de labirinto](https://moodle.ifsc.edu.br/mod/page/view.php?id=313726)
 
+## 02/09
+- Leitura: [Uma fila duplamente terminada (deque)](https://moodle.ifsc.edu.br/mod/page/view.php?id=313704)
+    - Implemente seu deque
+    - [Curiosidade: tornando o deque iterável](https://moodle.ifsc.edu.br/mod/page/view.php?id=313704#iteracao)
+    - Use seu deque para resolver a [calculadora aritmética](https://moodle.ifsc.edu.br/mod/vpl/view.php?id=313730)
+    - Use seu deque para resolver o [contador binário](https://moodle.ifsc.edu.br/mod/vpl/view.php?id=313723)
+    - Use seu deque para [calcular a média móvel de uma sequência de valores](https://moodle.ifsc.edu.br/mod/vpl/view.php?id=313733)
 
+## 04/09 e 09/09
+- Exercícios sobre filas e pilhas
+    - Comentários sobre a solução para o balanceador de texto
+
+## 11/09
+- [Avaliação 1 (simulada](https://moodle.ifsc.edu.br/course/view.php?id=7092#avaliacao1-sim))
+- [Avaliação 1 !!!](https://moodle.ifsc.edu.br/course/view.php?id=7092#avaliacao1)
+
+## Próximo Tópico
+[[Listas sequenciais]]
