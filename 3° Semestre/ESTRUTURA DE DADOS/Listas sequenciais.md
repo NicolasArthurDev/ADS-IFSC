@@ -15,3 +15,5 @@
         - [Uma animação sobre busca binária](https://www.w3schools.com/dsa/dsa_algo_binarysearch.php)
     - [Usando a nova lista para contar palavras repetidas](https://moodle.ifsc.edu.br/mod/vpl/view.php?id=313742)
 
+## Próximo Tópico
+[[Listas encadeadas]]  
