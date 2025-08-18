@@ -176,6 +176,7 @@
   },
   "active": "deae29c1f29dfac0",
   "lastOpenFiles": [
+    "_config.yml",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto I.md",
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Associação entre classes.md",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Manipulando estilos e persistência.md",
@@ -200,7 +201,6 @@
     "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Listas sequenciais.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Listas encadeadas.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Algoritmos de ordenamento.md"
+    "3° Semestre/ESTRUTURA DE DADOS/Listas encadeadas.md"
   ]
 }
