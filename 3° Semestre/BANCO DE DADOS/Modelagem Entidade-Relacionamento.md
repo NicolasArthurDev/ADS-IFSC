@@ -10,5 +10,5 @@
 >**Chave Primária** está contida no conjunto de **Chaves Candidatas** que está contida no conjunto de **Super Chaves**
 >
 
- 
+ ![[BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf]]
 
