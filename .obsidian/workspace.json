@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "a0d9361df24bc49a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc170dfe53f20ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deae29c1f29dfac0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dedd9771ecb90900",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d00e83ff418b319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa6a339e5f637a89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "19de9782b8a2f016",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7c013434afeaa4bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2866f29674c22a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "946efeeffa29507f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f805050115015a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "653f6b032a825779",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "dbac33b4756f216b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53dc9873ca5edc5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "4986f423fa9fc4a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export as HTML": false
+    }
+  },
+  "active": "deae29c1f29dfac0",
+  "lastOpenFiles": [
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto I.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Associação entre classes.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Manipulando estilos e persistência.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto II.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Semântica no HTML5.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Elementos HTML.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução ao HTML5.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Atividade para entregar.md",
+    "PDFs/2° Semestre/Documentação do Sistema de Relatórios - Songlub.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Herança.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Classe Abstrata e Polimorfismo.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Enum e Tipos Genéricos.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Tratamento de Exceção.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Exceções Personalizadas.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Java API Collections.md",
+    "Análise e Desenvolvimento de Sistemas - IFSC.md",
+    "3° Semestre/Terceiro Semestre.md",
+    "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
+    "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
+    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
+    "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
+    "3° Semestre/ESTRUTURA DE DADOS/Listas sequenciais.md",
+    "3° Semestre/ESTRUTURA DE DADOS/Listas encadeadas.md",
+    "3° Semestre/ESTRUTURA DE DADOS/Algoritmos de ordenamento.md"
+  ]
+}
