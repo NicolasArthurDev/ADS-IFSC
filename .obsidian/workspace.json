@@ -11,10 +11,14 @@
             "id": "20488ecc1a1295e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Filas e pilhas"
             }
           }
         ]
@@ -174,8 +178,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "aa6a339e5f637a89",
+  "active": "20488ecc1a1295e9",
   "lastOpenFiles": [
+    "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
+    "3° Semestre/ESTRUTURA DE DADOS/Algoritmos de ordenamento.md",
+    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "PDFs/3° Semestre/es1-introducao.pdf",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
     "_config.yml",
@@ -199,9 +206,7 @@
     "3° Semestre/Terceiro Semestre.md",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
-    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Listas sequenciais.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Listas encadeadas.md"
+    "3° Semestre/ESTRUTURA DE DADOS/Listas sequenciais.md"
   ]
 }
