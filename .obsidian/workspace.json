@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc170dfe53f20ba",
+        "id": "3906d038dc6835d5",
         "type": "tabs",
         "children": [
           {
-            "id": "deae29c1f29dfac0",
+            "id": "20488ecc1a1295e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Engenharia de Software"
-            }
-          },
-          {
-            "id": "abb041d703dfa880",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/3° Semestre/es1-introducao.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "es1-introducao"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +174,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "abb041d703dfa880",
+  "active": "aa6a339e5f637a89",
   "lastOpenFiles": [
-    "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
     "PDFs/3° Semestre/es1-introducao.pdf",
+    "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
     "_config.yml",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto I.md",
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Associação entre classes.md",
