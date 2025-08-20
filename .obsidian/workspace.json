@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Processos de Desenvolvimento de Software"
             }
-          },
-          {
-            "id": "038e66f7bdd3bf78",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +178,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "038e66f7bdd3bf78",
+  "active": "4986f423fa9fc4a9",
   "lastOpenFiles": [
     "PDFs/3° Semestre/es1-processo.pdf",
     "Processos de Desenvolvimento de Software.md",
