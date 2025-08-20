@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisão de fundamentos de JavaScript.md",
+                "file": "Paradigmas de Programação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão de fundamentos de JavaScript"
+              "title": "Paradigmas de Programação"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revisão de fundamentos de JavaScript.md",
+                "file": "Paradigmas de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Revisão de fundamentos de JavaScript"
+              "title": "Links inversos para Paradigmas de Programação"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revisão de fundamentos de JavaScript.md",
+                "file": "Paradigmas de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Revisão de fundamentos de JavaScript"
+              "title": "Links de saída para Paradigmas de Programação"
             }
           },
           {
@@ -182,9 +182,10 @@
   },
   "active": "64d362f5c39c2cf3",
   "lastOpenFiles": [
+    "Revisão de fundamentos de JavaScript.md",
+    "Paradigmas de Programação.md",
     "FE2 - 1. Revisão JS.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
-    "Revisão de fundamentos de JavaScript.md",
     "FE2_plano (1).pdf",
     "Processos de Desenvolvimento de Software.md",
     "PDFs/3° Semestre/es1-processo.pdf",
