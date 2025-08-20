@@ -25,12 +25,14 @@
             "id": "038e66f7bdd3bf78",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "es1-processo.pdf"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "es1-processo"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -107,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es1-processo.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para es1-processo"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es1-processo.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para es1-processo"
+              "title": "Links de saída"
             }
           },
           {
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,9 +195,9 @@
   },
   "active": "038e66f7bdd3bf78",
   "lastOpenFiles": [
+    "PDFs/3° Semestre/es1-processo.pdf",
     "Processos de Desenvolvimento de Software.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
-    "es1-processo.pdf",
     "PDFs/3° Semestre/eng_software-motivacao.pdf",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
