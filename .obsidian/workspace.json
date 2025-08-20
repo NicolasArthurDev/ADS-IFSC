@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Processos de Desenvolvimento de Software"
             }
+          },
+          {
+            "id": "038e66f7bdd3bf78",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "es1-processo.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "es1-processo"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +191,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "64d362f5c39c2cf3",
+  "active": "038e66f7bdd3bf78",
   "lastOpenFiles": [
+    "Processos de Desenvolvimento de Software.md",
     "es1-processo.pdf",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
-    "Processos de Desenvolvimento de Software.md",
     "PDFs/3° Semestre/eng_software-motivacao.pdf",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
