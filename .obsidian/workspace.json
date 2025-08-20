@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "es1-processo.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para es1-processo"
             }
           },
           {
@@ -125,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "es1-processo.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para es1-processo"
             }
           },
           {
@@ -172,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,8 +196,8 @@
   "active": "038e66f7bdd3bf78",
   "lastOpenFiles": [
     "Processos de Desenvolvimento de Software.md",
-    "es1-processo.pdf",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
+    "es1-processo.pdf",
     "PDFs/3° Semestre/eng_software-motivacao.pdf",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
