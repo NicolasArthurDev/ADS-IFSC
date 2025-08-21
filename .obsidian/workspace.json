@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDFs/3° Semestre/Processos de Desenvolvimento de Software.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processos de Desenvolvimento de Software"
+              "title": "Revisão de fundamentos de JavaScript"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/3° Semestre/Processos de Desenvolvimento de Software.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Processos de Desenvolvimento de Software"
+              "title": "Links inversos para Revisão de fundamentos de JavaScript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/3° Semestre/Processos de Desenvolvimento de Software.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Processos de Desenvolvimento de Software"
+              "title": "Links de saída para Revisão de fundamentos de JavaScript"
             }
           },
           {
@@ -180,14 +180,14 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "64d362f5c39c2cf3",
+  "active": "aa6a339e5f637a89",
   "lastOpenFiles": [
+    "3° Semestre/ENGENHARIA DE SOFTWARE I/Processos de Desenvolvimento de Software.md",
     "Paradigmas de Programação.md",
-    "PDFs/3° Semestre/Revisão de fundamentos de JavaScript.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
     "PDFs/3° Semestre/FE2 - 1. Revisão JS.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
     "PDFs/3° Semestre/FE2_plano (1).pdf",
-    "PDFs/3° Semestre/Processos de Desenvolvimento de Software.md",
     "PDFs/3° Semestre/es1-processo.pdf",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
     "PDFs/3° Semestre/eng_software-motivacao.pdf",
