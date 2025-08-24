@@ -29,24 +29,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
+                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução ao Banco de Dados"
+              "title": "Modelagem Entidade-Relacionamento"
             }
           },
           {
-            "id": "eeae43a072040a79",
+            "id": "ebce01105fa31343",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf"
+                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "bcd-aula-apresentacao-13-58"
+              "title": "bcd-aula-modelagem-er-1-21"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
+                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para bcd-aula-apresentacao-13-58"
+              "title": "Links inversos para bcd-aula-modelagem-er-1-21"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
+                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para bcd-aula-apresentacao-13-58"
+              "title": "Links de saída para bcd-aula-modelagem-er-1-21"
             }
           }
         ]
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
+                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de bcd-aula-apresentacao-13-58"
+              "title": "Sumário de bcd-aula-modelagem-er-1-21"
             }
           },
           {
@@ -238,11 +238,12 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "eeae43a072040a79",
+  "active": "ebce01105fa31343",
   "lastOpenFiles": [
+    "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
-    "Sem título.base",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
+    "Sem título.base",
     "3° Semestre/Terceiro Semestre.md",
     "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
