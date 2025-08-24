@@ -144,12 +144,12 @@
               "title": "Links de saída para bcd-aula-modelagem-er-1-21"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "2866f29674c22a86",
@@ -224,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +239,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "ebce01105fa31343",
+  "active": "653f6b032a825779",
   "lastOpenFiles": [
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
