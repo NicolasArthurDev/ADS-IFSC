@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "a68437933b04f63f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
+            }
+          },
+          {
             "id": "ebce01105fa31343",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Modelagem Entidade-Relacionamento"
+              "title": "Links inversos para BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
             }
           },
           {
@@ -136,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Modelagem Entidade-Relacionamento"
+              "title": "Links de saída para BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
             }
           }
         ],
@@ -149,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 309.5
   },
   "right": {
     "id": "2866f29674c22a86",
@@ -181,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelagem Entidade-Relacionamento"
+              "title": "Sumário de BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
             }
           },
           {
@@ -224,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,10 +251,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "f015f20c98c12093",
+  "active": "a68437933b04f63f",
   "lastOpenFiles": [
-    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
     "Sem título.base",
