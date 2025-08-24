@@ -18,8 +18,23 @@
               "icon": "lucide-file-text",
               "title": "bcd-aula-apresentacao-13-58"
             }
+          },
+          {
+            "id": "e3d67d3e78348e19",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +193,11 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "4986f423fa9fc4a9",
+  "active": "e3d67d3e78348e19",
   "lastOpenFiles": [
-    "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
+    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
+    "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Processos de Desenvolvimento de Software.md",
     "Paradigmas de Programação.md",
@@ -194,7 +210,6 @@
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
     "3° Semestre/ESTRUTURA DE DADOS/Algoritmos de ordenamento.md",
-    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "PDFs/3° Semestre/es1-introducao.pdf",
     "_config.yml",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto I.md",
