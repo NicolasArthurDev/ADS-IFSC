@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
+                "file": "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão de fundamentos de JavaScript"
+              "title": "Introdução ao Banco de Dados"
+            }
+          },
+          {
+            "id": "9aff772229c4f987",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bcd-aula-apresentacao-13-58"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 313.5
   },
   "right": {
     "id": "2866f29674c22a86",
@@ -180,11 +193,12 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "aa6a339e5f637a89",
+  "active": "9aff772229c4f987",
   "lastOpenFiles": [
+    "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Processos de Desenvolvimento de Software.md",
     "Paradigmas de Programação.md",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
     "PDFs/3° Semestre/FE2 - 1. Revisão JS.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
     "PDFs/3° Semestre/FE2_plano (1).pdf",
@@ -212,7 +226,6 @@
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Enum e Tipos Genéricos.md",
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Tratamento de Exceção.md",
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Exceções Personalizadas.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Java API Collections.md",
-    "Análise e Desenvolvimento de Sistemas - IFSC.md"
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Java API Collections.md"
   ]
 }
