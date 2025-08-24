@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a3de1ce2dd523801",
+        "id": "17dc7abe36fd767e",
         "type": "tabs",
         "children": [
           {
-            "id": "9aff772229c4f987",
+            "id": "e38862ecf1ea2b97",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bcd-aula-apresentacao-13-58"
-            }
-          },
-          {
-            "id": "e3d67d3e78348e19",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +176,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "e3d67d3e78348e19",
+  "active": "e38862ecf1ea2b97",
   "lastOpenFiles": [
     "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
