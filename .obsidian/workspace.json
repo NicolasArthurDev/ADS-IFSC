@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
+                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para bcd-aula-modelagem-er-1-21"
+              "title": "Links inversos para Modelagem Entidade-Relacionamento"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
+                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para bcd-aula-modelagem-er-1-21"
+              "title": "Links de saída para Modelagem Entidade-Relacionamento"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
+                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de bcd-aula-modelagem-er-1-21"
+              "title": "Sumário de Modelagem Entidade-Relacionamento"
             }
           },
           {
@@ -239,8 +239,9 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "653f6b032a825779",
+  "active": "f015f20c98c12093",
   "lastOpenFiles": [
+    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
@@ -273,7 +274,6 @@
     "PDFs/2° Semestre/Documentação do Sistema de Relatórios - Songlub.md",
     "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md",
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Herança.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Classe Abstrata e Polimorfismo.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Enum e Tipos Genéricos.md"
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Classe Abstrata e Polimorfismo.md"
   ]
 }
