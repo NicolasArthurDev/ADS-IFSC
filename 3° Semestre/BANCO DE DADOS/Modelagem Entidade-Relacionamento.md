@@ -12,3 +12,4 @@
 
  ![[BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf]]
 
+![[ModeloRelacional_Aula02_Completo.pdf]]
