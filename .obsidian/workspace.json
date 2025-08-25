@@ -41,12 +41,14 @@
             "id": "a68437933b04f63f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf"
+                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
+              "icon": "lucide-file",
+              "title": "Modelagem Entidade-Relacionamento"
             }
           },
           {
@@ -148,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
+                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
+              "title": "Links de saída para Modelagem Entidade-Relacionamento"
             }
           }
         ],
@@ -253,6 +255,7 @@
   },
   "active": "a68437933b04f63f",
   "lastOpenFiles": [
+    "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
