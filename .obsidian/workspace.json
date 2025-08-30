@@ -24,49 +24,21 @@
             }
           },
           {
-            "id": "f015f20c98c12093",
+            "id": "86aa9751e38459b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelagem Entidade-Relacionamento"
-            }
-          },
-          {
-            "id": "a68437933b04f63f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelagem Entidade-Relacionamento"
-            }
-          },
-          {
-            "id": "ebce01105fa31343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orientação a objetos em JavaScript"
+              "title": "Paradigmas de Programação"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Orientação a objetos em JavaScript"
+              "title": "Links de saída para Paradigmas de Programação"
             }
           }
         ],
@@ -255,20 +227,22 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "ebce01105fa31343",
+  "active": "86aa9751e38459b4",
   "lastOpenFiles": [
-    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
+    "FE2 - 2. Introdução a paradigmas.pdf",
+    "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
+    "FE2 - 3. POO em JS (parte 1).pdf",
+    "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
+    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
     "PDFs/3° Semestre/ModeloRelacional_Aula02_Completo.pdf",
     "ModeloRelacional_Aula02_Completo.pdf",
     "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
-    "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
     "Sem título.base",
     "3° Semestre/Terceiro Semestre.md",
-    "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Processos de Desenvolvimento de Software.md",
@@ -278,7 +252,6 @@
     "PDFs/3° Semestre/FE2_plano (1).pdf",
     "PDFs/3° Semestre/es1-processo.pdf",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
-    "PDFs/3° Semestre/eng_software-motivacao.pdf",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
     "3° Semestre/ESTRUTURA DE DADOS/Algoritmos de ordenamento.md",
