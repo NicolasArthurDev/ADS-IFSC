@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Análise e Desenvolvimento de Sistemas - IFSC"
             }
-          },
-          {
-            "id": "86aa9751e38459b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FE2 - 2. Introdução a paradigmas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
+                "file": "Análise e Desenvolvimento de Sistemas - IFSC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para FE2 - 2. Introdução a paradigmas"
+              "title": "Links de saída para Análise e Desenvolvimento de Sistemas - IFSC"
             }
           }
         ],
@@ -144,7 +131,6 @@
       {
         "id": "946efeeffa29507f",
         "type": "tabs",
-        "dimension": 44.57364341085272,
         "children": [
           {
             "id": "dbac33b4756f216b",
@@ -190,23 +176,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "15a94c43014cdf12",
-        "type": "tabs",
-        "dimension": 55.42635658914728,
-        "children": [
-          {
-            "id": "4986f423fa9fc4a9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -221,16 +190,16 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa6a339e5f637a89",
+  "active": "e38862ecf1ea2b97",
   "lastOpenFiles": [
+    "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
     "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
-    "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
     "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
