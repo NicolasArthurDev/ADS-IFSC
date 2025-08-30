@@ -55,28 +55,18 @@
             "id": "ebce01105fa31343",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf"
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "bcd-aula-modelagem-er-1-21"
-            }
-          },
-          {
-            "id": "06f35748ee6d1f5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.9.12"
+              "icon": "lucide-file",
+              "title": "Orientação a objetos em JavaScript"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,11 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Orientação a objetos em JavaScript"
             }
           }
         ],
@@ -264,14 +255,15 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "06f35748ee6d1f5f",
+  "active": "ebce01105fa31343",
   "lastOpenFiles": [
+    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
     "PDFs/3° Semestre/ModeloRelacional_Aula02_Completo.pdf",
     "ModeloRelacional_Aula02_Completo.pdf",
     "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
-    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
     "Sem título.base",
@@ -299,8 +291,6 @@
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução ao HTML5.md",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Atividade para entregar.md",
     "PDFs/2° Semestre/Documentação do Sistema de Relatórios - Songlub.md",
-    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Herança.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Classe Abstrata e Polimorfismo.md"
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md"
   ]
 }
