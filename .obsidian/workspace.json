@@ -27,14 +27,12 @@
             "id": "86aa9751e38459b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Orientação a objetos em JavaScript"
+              "icon": "lucide-file-text",
+              "title": "FE2 - 2. Introdução a paradigmas"
             }
           }
         ],
@@ -124,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
+                "file": "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Orientação a objetos em JavaScript"
+              "title": "Links de saída para FE2 - 2. Introdução a paradigmas"
             }
           }
         ],
@@ -227,14 +225,14 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "86aa9751e38459b4",
+  "active": "aa6a339e5f637a89",
   "lastOpenFiles": [
-    "FE2 - 4. POO em JS (parte 2).pdf",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
-    "FE2 - 2. Introdução a paradigmas.pdf",
-    "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
-    "FE2 - 3. POO em JS (parte 1).pdf",
+    "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
+    "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
+    "Análise e Desenvolvimento de Sistemas - IFSC.md",
+    "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
     "PDFs/3° Semestre/ModeloRelacional_Aula02_Completo.pdf",
@@ -250,7 +248,6 @@
     "Paradigmas de Programação.md",
     "PDFs/3° Semestre/FE2 - 1. Revisão JS.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
-    "PDFs/3° Semestre/FE2_plano (1).pdf",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
