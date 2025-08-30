@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Análise e Desenvolvimento de Sistemas - IFSC"
             }
+          },
+          {
+            "id": "86519416cc9e78d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orientação a objetos em JavaScript"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise e Desenvolvimento de Sistemas - IFSC.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Análise e Desenvolvimento de Sistemas - IFSC"
+              "title": "Links de saída para Orientação a objetos em JavaScript"
             }
           }
         ],
@@ -153,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/3° Semestre/BCD_Aula_02_ModeloEntidadeRelacionamento_Completo.pdf",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de BCD_Aula_02_ModeloEntidadeRelacionamento_Completo"
+              "title": "Sumário de Orientação a objetos em JavaScript"
             }
           },
           {
@@ -176,6 +191,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "1ab3524977705033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c290f79cdbe78e64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,13 +227,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e38862ecf1ea2b97",
+  "active": "86519416cc9e78d1",
   "lastOpenFiles": [
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
+    "3° Semestre/Terceiro Semestre.md",
+    "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
     "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
-    "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf",
     "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
     "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
@@ -210,13 +246,10 @@
     "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
     "PDFs/3° Semestre/bcd-aula-apresentacao-13-58.pdf",
     "Sem título.base",
-    "3° Semestre/Terceiro Semestre.md",
     "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Processos de Desenvolvimento de Software.md",
     "Paradigmas de Programação.md",
     "PDFs/3° Semestre/FE2 - 1. Revisão JS.pdf",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
     "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
     "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
