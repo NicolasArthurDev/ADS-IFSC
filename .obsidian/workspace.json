@@ -62,9 +62,21 @@
               "icon": "lucide-file-text",
               "title": "bcd-aula-modelagem-er-1-21"
             }
+          },
+          {
+            "id": "06f35748ee6d1f5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,12 +162,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Modelagem Entidade-Relacionamento"
+              "title": "Links de saída"
             }
           }
         ],
@@ -253,7 +264,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "4986f423fa9fc4a9",
+  "active": "06f35748ee6d1f5f",
   "lastOpenFiles": [
     "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
     "PDFs/3° Semestre/ModeloRelacional_Aula02_Completo.pdf",
