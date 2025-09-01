@@ -208,7 +208,7 @@
     "inlineOther": false,
     "combineAsSingleFile": false,
     "offlineResources": false,
-    "themeName": "",
+    "themeName": "obsidian-current-theme",
     "slugifyPaths": true,
     "flattenExportPaths": false,
     "fixLinks": true,

@@ -11,10 +11,14 @@
             "id": "f10e5ba84f20d987",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Manifeto Ágil"
             }
           }
         ]
@@ -103,11 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Manifeto Ágil"
             }
           }
         ],
@@ -213,45 +218,47 @@
       "command-palette:Abrir paleta de comandos": false,
       "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "f10e5ba84f20d987",
   "lastOpenFiles": [
+    "1° Semestre/PENSAMENTO COMPUTACIONAL E ALGORITMOS/Variáveis - Java.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Circuitos Eletrônicos.md",
+    "1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Como Estudar.md",
+    "1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Robocode.md",
+    "1° Semestre/PENSAMENTO COMPUTACIONAL E ALGORITMOS/Primeiro Sistema.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Sistema de Controle de Versão (Revisão).md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Linguagem Java (Revisão).md",
+    "1° Semestre/Primeiro Semestre.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Simplificação de circuitos.md",
+    "1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Introdução à Computação e ao hardware.md",
+    "1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Robocode - Testando a ferramenta junto com o GitHub.md",
+    "1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Sobre a matéria.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Vetores.md",
+    "2° Semestre/Segundo Semestre.md",
+    "2° Semestre/COMUNICAÇÃO E EXPRESSÃO/Introdução a Comunicação e Expressão.md",
+    "2° Semestre/COMUNICAÇÃO E EXPRESSÃO/Resumo.md",
+    "2° Semestre/REDES DE COMPUTADORES/Introdução a Rede de Computadores.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Introdução a Programação Orientada a Objetos.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Revisão de Algoritmos.md",
+    "2° Semestre/REDES DE COMPUTADORES/Capítulo 4 e 5 - A camada de Rede.md",
+    "2° Semestre/REDES DE COMPUTADORES/Capítulo 6 - Camada de Enlace.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Calculadora Rudi.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Funções e Portas Lógicas.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Diagramas de Veitch-Karnaugh.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Contadores Síncronos e Assíncronos.md",
+    "1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES/Memórias.md",
+    "3° Semestre/ENGENHARIA DE SOFTWARE I/es1-agilidade.pdf",
     "PDFs/3° Semestre/ModeloRelacional_Oficial.pdf",
-    "LICENSE.md",
     "PDFs/3° Semestre/bcd-aula-modelo-relacional-1-13.pdf",
-    "README.md",
-    "Análise e Desenvolvimento de Sistemas - IFSC.md",
-    "3° Semestre/BANCO DE DADOS/Introdução ao modelo relacional.md",
     "PDFs/3° Semestre/Atividade_04.pdf",
     "PDFs/3° Semestre/Atividade_05.pdf",
     "PDFs/3° Semestre/BCD_Exercicios-6.pdf",
-    "3° Semestre/BANCO DE DADOS/Modelagem Entidade-Relacionamento.md",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
-    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
-    "3° Semestre/Terceiro Semestre.md",
     "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
     "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf",
     "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf",
-    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf",
-    "PDFs/3° Semestre/ModeloRelacional_Aula02_Completo.pdf",
-    "3° Semestre/BANCO DE DADOS/Introdução ao Banco de Dados.md",
-    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
-    "3° Semestre/ENGENHARIA DE SOFTWARE I/Processos de Desenvolvimento de Software.md",
-    "Paradigmas de Programação.md",
-    "3° Semestre/ENGENHARIA DE SOFTWARE I/Engenharia de Software.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Filas e pilhas.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Introdução a Estrutura de Dados.md",
-    "3° Semestre/ESTRUTURA DE DADOS/Algoritmos de ordenamento.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto I.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Associação entre classes.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Manipulando estilos e persistência.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto II.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Semântica no HTML5.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Elementos HTML.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução ao HTML5.md"
+    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf"
   ]
 }
