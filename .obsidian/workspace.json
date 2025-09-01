@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
+                "file": "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manifeto Ágil"
+              "title": "Laboratório Docker"
             }
           }
         ]
@@ -107,12 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
+                "file": "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Manifeto Ágil"
+              "title": "Links de saída para Laboratório Docker"
             }
           }
         ],
@@ -223,6 +223,12 @@
   },
   "active": "f10e5ba84f20d987",
   "lastOpenFiles": [
+    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/seg-lab-docker.pdf",
+    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Segurança em redes de computadores.md",
+    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
+    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/seg-rede-de-computadores.pdf",
+    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Introdução a Segurança da Informação.md",
+    "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
     "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função exponencial.md",
     "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função Afim.md",
     "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função Logarítmica.md",
@@ -244,11 +250,6 @@
     "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Construtores, Modificadores de acesso e Encapsulamento.md",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Responsividade CSS3.md",
     "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 2.md",
-    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 3.md",
-    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Gráficos e Indicadores.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução a Programação Web.md",
-    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 1.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução ao CSS.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/es1-agilidade.pdf",
     "PDFs/3° Semestre/ModeloRelacional_Oficial.pdf",
     "PDFs/3° Semestre/bcd-aula-modelo-relacional-1-13.pdf",
@@ -257,7 +258,6 @@
     "PDFs/3° Semestre/BCD_Exercicios-6.pdf",
     "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
     "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf",
-    "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf",
-    "PDFs/3° Semestre/bcd-aula-modelagem-er-1-21.pdf"
+    "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf"
   ]
 }
