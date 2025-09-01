@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Manifeto Ágil"
             }
-          },
-          {
-            "id": "2cfec6828cb9fe12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Probabilidades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probabilidades"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,12 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Probabilidades.md",
+                "file": "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Probabilidades"
+              "title": "Links de saída para Manifeto Ágil"
             }
           }
         ],
@@ -233,38 +218,37 @@
       "command-palette:Abrir paleta de comandos": false,
       "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "terminal:Open terminal": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2cfec6828cb9fe12",
+  "active": "f10e5ba84f20d987",
   "lastOpenFiles": [
-    "2° Semestre/REDES DE COMPUTADORES/Capítulo 3 - Camada de transporte.md",
-    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Correlação.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Manipulando o DOM (Introdução HTML + CSS + JavaScript).md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Aplicando JavaScript ao HTML.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Aplicando CSS ao HTML.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Eventos JavaScript.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Sintaxe do JavaScript.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Finalizando com estilo.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Objetos JavaScript - JSON.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto I.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Associação entre classes.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Manipulando estilos e persistência.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Projeto II.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Semântica no HTML5.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Elementos HTML.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução ao HTML5.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Atividade para entregar.md",
-    "PDFs/2° Semestre/Documentação do Sistema de Relatórios - Songlub.md",
-    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Herança.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Classe Abstrata e Polimorfismo.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Enum e Tipos Genéricos.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Tratamento de Exceção.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Exceções Personalizadas.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Java API Collections.md",
-    "3° Semestre/BANCO DE DADOS/Atividade – Identificação de Atributos e Chaves em Entidades.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função exponencial.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função Afim.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função Logarítmica.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Função Quadrática e Inequações.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Funções.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Introdução à Teoria de Conjuntos.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Sistemas Lineares.md",
+    "1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Matrizes.md",
+    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Introdução a Atividade de Extensão I.md",
+    "2° Semestre/REDES DE COMPUTADORES/Capítulo 1 - Redes de computadores e a Internet.md",
+    "2° Semestre/REDES DE COMPUTADORES/Capítulo 2 - Camada de aplicação.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Ferramentas de Desenvolvimento (IDE, depuração e construção de projetos com Gradle).md",
+    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Simulado com Gabarito.md",
+    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Medidas de Dispersão.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Posicionando com CSS.md",
+    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Conceitos básicos e Medidas de tendência central - Média geral, Moda e Mediana.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução a Front-end I.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Paradigma Orientada a Objetos.md",
+    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Construtores, Modificadores de acesso e Encapsulamento.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Responsividade CSS3.md",
+    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 2.md",
+    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 3.md",
+    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Gráficos e Indicadores.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução a Programação Web.md",
+    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 1.md",
+    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução ao CSS.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/es1-agilidade.pdf",
     "PDFs/3° Semestre/ModeloRelacional_Oficial.pdf",
     "PDFs/3° Semestre/bcd-aula-modelo-relacional-1-13.pdf",
