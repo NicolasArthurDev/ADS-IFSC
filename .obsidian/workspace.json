@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laboratório Docker"
+              "title": "README"
+            }
+          },
+          {
+            "id": "06601c7a8898a88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Programação funcional em JS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programação funcional em JS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
+                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Programação funcional em JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Laboratório Docker"
+              "title": "Links de saída para Programação funcional em JS"
             }
           }
         ],
@@ -221,11 +236,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f10e5ba84f20d987",
+  "active": "06601c7a8898a88e",
   "lastOpenFiles": [
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Orientação a objetos em JavaScript.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Programação funcional em JS.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Paradigmas de Programação.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Revisão de fundamentos de JavaScript.md",
+    "3° Semestre/PROGRAMAÇÃO FRONTEND II/Introdução a Programação Frontend II.md",
+    "3° Semestre/Terceiro Semestre.md",
+    "README.md",
+    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
     "3° Semestre/SEGURANÇA DA INFORMAÇÃO/seg-lab-docker.pdf",
     "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Segurança em redes de computadores.md",
-    "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Laboratório Docker.md",
     "3° Semestre/SEGURANÇA DA INFORMAÇÃO/seg-rede-de-computadores.pdf",
     "3° Semestre/SEGURANÇA DA INFORMAÇÃO/Introdução a Segurança da Informação.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/Manifeto Ágil.md",
@@ -244,12 +266,6 @@
     "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Simulado com Gabarito.md",
     "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Medidas de Dispersão.md",
     "2° Semestre/PROGRAMAÇÃO FRONTEND I/Posicionando com CSS.md",
-    "2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA/Conceitos básicos e Medidas de tendência central - Média geral, Moda e Mediana.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Introdução a Front-end I.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Paradigma Orientada a Objetos.md",
-    "2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS/Construtores, Modificadores de acesso e Encapsulamento.md",
-    "2° Semestre/PROGRAMAÇÃO FRONTEND I/Responsividade CSS3.md",
-    "2° Semestre/ATIVIDADES DE EXTENSÃO I/Atividade de Extensão - Sprint 2.md",
     "3° Semestre/ENGENHARIA DE SOFTWARE I/es1-agilidade.pdf",
     "PDFs/3° Semestre/ModeloRelacional_Oficial.pdf",
     "PDFs/3° Semestre/bcd-aula-modelo-relacional-1-13.pdf",
@@ -257,7 +273,6 @@
     "PDFs/3° Semestre/Atividade_05.pdf",
     "PDFs/3° Semestre/BCD_Exercicios-6.pdf",
     "PDFs/3° Semestre/FE2 - 2. Introdução a paradigmas.pdf",
-    "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf",
-    "PDFs/3° Semestre/FE2 - 3. POO em JS (parte 1).pdf"
+    "PDFs/3° Semestre/FE2 - 4. POO em JS (parte 2).pdf"
   ]
 }
