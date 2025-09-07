@@ -9,3 +9,5 @@
 ![[Atividade_05.pdf]]
 
 
+## Próximo Tópico
+[[Algebra Relacional]] 

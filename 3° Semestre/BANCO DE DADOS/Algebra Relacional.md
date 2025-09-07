@@ -1,0 +1,1 @@
+![[bcd-aula-algebra.pdf]]
