@@ -14,6 +14,7 @@
 
 ![[ModeloRelacional_Aula02_Completo.pdf]]
 
-
+## Atividades
+[[Lista 01 - Banco de Dados]] 
 ## Próximo Tópico
 [[Introdução ao modelo relacional]] 
