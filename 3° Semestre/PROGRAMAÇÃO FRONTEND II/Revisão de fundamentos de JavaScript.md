@@ -2,7 +2,7 @@
 
 
 ## Atividades
-[[Laboratorio 1]]
+[[Laboratório 1]]
 
 ## Próximo Tópico
 [[Paradigmas de Programação]] 

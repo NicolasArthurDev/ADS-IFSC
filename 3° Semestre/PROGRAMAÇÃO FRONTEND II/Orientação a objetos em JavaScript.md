@@ -8,8 +8,9 @@
 
 ![[FE2 - 4. POO em JS (parte 2).pdf]]
 
-## Atividade
-[[Laboratorio 2]]
+## Atividades
+[[Laboratório 2]]
+[[Laboratório 3]]
 
 ## Próximo Tópico
 [[Programação funcional em JS]]
