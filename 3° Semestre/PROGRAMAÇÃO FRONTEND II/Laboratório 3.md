@@ -1,1 +1,1 @@
-![[FE2_lab3 (1).pdf]]
+![[FE2_lab3.pdf]]
