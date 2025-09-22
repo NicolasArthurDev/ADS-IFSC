@@ -1,6 +1,6 @@
 ## Disciplinas
 ### Banco de Dados
-- [[Introdução ao Banco de Dados]]
+- [[0 - Introdução ao Banco de Dados]]
 ### Engenharia de Software
 - [[Introdução à Engenharia de Software]]
 ### Estrutura de Dados
