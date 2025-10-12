@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a29c5bae6f48ce48","type":"text","text":"# Home\n---\n\n1. Navbar\n2. Banner\n3. Sobre\n4. Pedidos\n5. Promoções\n6. Contato","x":-475,"y":-520,"width":250,"height":328},
+		{"id":"a29c5bae6f48ce48","type":"text","text":"# Home\n---\n\n1. Navbar\n2. Banner\n3. Sobre\n4. Pedidos\n5. Promoções\n6. Contato\n7. Footer","x":-475,"y":-520,"width":250,"height":328},
 		{"id":"d2f4a2b0ccf87bfc","x":-265,"y":-40,"width":250,"height":60,"type":"text","text":"# Pedidos"},
 		{"id":"942df87469622aaa","x":-660,"y":-40,"width":250,"height":60,"type":"text","text":"# Promoções"},
 		{"id":"533eb64aa8f741f6","x":-60,"y":-537,"width":250,"height":181,"type":"text","text":"# Sobre\n---\nTexto curto"},
