@@ -1,12 +1,21 @@
 # Análise e Desenvolvimento de Sistemas - IFSC
 
+Repositório pessoal com slides, atividades, projetos e anotações do curso de **Análise e Desenvolvimento de Sistemas** do **IFSC - Instituto Federal de Santa Catarina** no campus São José.
+
+Organizado por semestres, este repositório tem como objetivo documentar minha jornada acadêmica, compartilhar conhecimento e servir como base para revisões, estudos e consultas futuras.
+
+> [!TIP]
+>**OBS**: Feito para ser utilizado no **Obsidian**.
+
+---
+## Pontos Importantes
+
 ### Semestres:
 - [[Primeiro Semestre]]
 - [[Segundo Semestre]]
 - [[Terceiro Semestre]]
 
 ### Calendário Acadêmico:
-
 - [Calendário Acadêmico Campus São José](https://docs.google.com/spreadsheets/d/1zzR6SUIiEQz-3PweQ3Nq0FWg03WFKEk0V2BVMNVGt8A/edit?usp=drivesdk) [2025](https://docs.google.com/spreadsheets/d/1zzR6SUIiEQz-3PweQ3Nq0FWg03WFKEk0V2BVMNVGt8A/edit?usp=sharing)
 - [Calendário Acadêmico Campus São José 2024](https://docs.google.com/spreadsheets/d/1feJAQlDhfS73v4-h5c6bdnWXSC3mcyLuaDdKwmJCT6U/edit?usp=sharing)
 
@@ -14,20 +23,15 @@
 [SIGAA](https://sigaa.ifsc.edu.br/sigaa/)
 
 ---
+## Sobre o Repositório
 
-Repositório pessoal com slides, atividades, projetos e anotações do curso de **Análise e Desenvolvimento de Sistemas** do **IFSC - Instituto Federal de Santa Catarina** no campus São José.
-
-Organizado por semestres, este repositório tem como objetivo documentar minha jornada acadêmica, compartilhar conhecimento e servir como base para revisões, estudos e consultas futuras.
-
-**OBS**: Feito para ser utilizado no **Obsidian**.
-
----
 Cada pasta contém:
 - 📑 Slides e materiais de aula
 - 📝 Atividades e resoluções
 - 💡 Projetos desenvolvidos e ideias criadas durante o semestre
 
 ---
+### Arquitetura
 ```
 📦 Análise e Desenvolvimento de Sistemas - IFSC
 ├── 📁 1° Semestre
@@ -77,8 +81,7 @@ Cada pasta contém:
 - Servir como portfólio técnico da minha evolução no curso.
 
 ---
-
-## 📜 Licença
+## Licença
 
 Este repositório está licenciado sob a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
