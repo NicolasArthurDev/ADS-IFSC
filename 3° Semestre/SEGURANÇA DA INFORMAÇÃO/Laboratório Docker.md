@@ -1,1 +1,0 @@
-![[seg-lab-docker.pdf]]
