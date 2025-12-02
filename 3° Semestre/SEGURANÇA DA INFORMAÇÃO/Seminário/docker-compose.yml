@@ -1,0 +1,31 @@
+services:
+  webgoat:
+    image: webgoat/webgoat:latest
+    container_name: webgoat
+    user: "root"
+    restart: unless-stopped
+    networks: [zapnet]
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - webgoat_data:/home/webgoat/.webgoat-2025.3
+
+  zap:
+    image: zaproxy/zap-stable
+    container_name: zap
+    user: "zap"
+    restart: unless-stopped
+    networks: [zapnet]
+    environment:
+      DISPLAY: ${DISPLAY} 
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - zap_data:/home/zap/.ZAP
+    command: zap.sh
+
+networks:
+  zapnet:
+
+volumes:
+  zap_data:
+  webgoat_data:
