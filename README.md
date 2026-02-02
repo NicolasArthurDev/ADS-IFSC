@@ -14,6 +14,7 @@ Organizado por semestres, este repositório tem como objetivo documentar minha j
 - [[Primeiro Semestre]]
 - [[Segundo Semestre]]
 - [[Terceiro Semestre]]
+- Quarto Semestre
 
 ### Calendário Acadêmico:
 - [Calendário Acadêmico Campus São José](https://docs.google.com/spreadsheets/d/1zzR6SUIiEQz-3PweQ3Nq0FWg03WFKEk0V2BVMNVGt8A/edit?usp=drivesdk) [2025](https://docs.google.com/spreadsheets/d/1zzR6SUIiEQz-3PweQ3Nq0FWg03WFKEk0V2BVMNVGt8A/edit?usp=sharing)
