@@ -6,4 +6,4 @@ Uma equipe de 5 pessoas vai construir um sistema para uma clínica (LGPD), com i
 2:
 	1. Fundamentar os requisitos instáveis
 	2. *Security by Design*
-3: Review com cliente semanal
+3: Review semanal com cliente 
