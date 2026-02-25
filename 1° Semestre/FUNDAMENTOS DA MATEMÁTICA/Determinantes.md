@@ -59,4 +59,4 @@ $$\det(A) = aei + bfg + cdh - ceg - afh - bdi$$
 
 
 
-$$X = \frac {-B\pm \sqrt{b^2-4\times AC}}{2A}$$ 
+$$X = \frac {-B\pm \sqrt{b^2-4\times AC}}{2A}$$
