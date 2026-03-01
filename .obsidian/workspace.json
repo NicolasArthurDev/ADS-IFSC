@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/4. Design Emocional.md",
+                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/5. Design Acessível e Sustentável.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Design Emocional"
+              "title": "5. Design Acessível e Sustentável"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/4. Design Emocional.md",
+                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/5. Design Acessível e Sustentável.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 4. Design Emocional"
+              "title": "Links inversos para 5. Design Acessível e Sustentável"
             }
           },
           {
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5041847229004
+    "width": 464.5041847229004
   },
   "right": {
     "id": "2866f29674c22a86",
@@ -214,8 +214,11 @@
   },
   "active": "565499338bc5784a",
   "lastOpenFiles": [
-    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/3. Implementação - Engenharia Cognitiva - Semiótica e Metáforas.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/AULA-06-2025-2-IHC Design Acessível e Sustentável.pdf",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/4. Design Emocional.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/5. Design Acessível e Sustentável.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-05-2025-2-IHC Design Emocional.pdf",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/3. Implementação - Engenharia Cognitiva - Semiótica e Metáforas.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-03e04-2025-1-IHC_EngenhariaCognitiva e Semiótica (1).pdf",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/2. Engenharia Cognitiva - Semiótica e Metáforas.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-03e04-2025-1-IHC_EngenhariaCognitiva e Semiótica.pdf",
@@ -232,7 +235,6 @@
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_3_governanca_repositorios.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_2_evolucao_do_software.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_1_ciclo_de_vida.pdf",
-    "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_plano (1).pdf",
     "Semestres/4° Semestre/Resumo Semanal/2026-02-28.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/0. Aula de Apresentação.md",
     "Semestres/4° Semestre/Quarto Semestre.md",
@@ -248,8 +250,6 @@
     "Docs/README.md",
     "Semestres/1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Software Livre, Máquinas Virtuais e Introdução ao Linux.md",
     "Semestres/1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Linux no Modo Texto.md",
-    "Semestres/1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Controle de versão, Git e GitHub.md",
-    "Semestres/1° Semestre/Primeiro Semestre.md",
     "PROJETOS/Lanchonete/Sem título.canvas",
     "Materiais/PDFs/3° Semestre/erdplus (2).png"
   ]
