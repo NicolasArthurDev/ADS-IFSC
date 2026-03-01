@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/1. Engenharia Cognitiva e Mapas Mentais.md",
+                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Engenharia Cognitiva - Semiótica e Metáforas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Engenharia Cognitiva e Mapas Mentais"
+              "title": "Engenharia Cognitiva - Semiótica e Metáforas"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/1. Engenharia Cognitiva e Mapas Mentais.md",
+                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Engenharia Cognitiva - Semiótica e Metáforas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1. Engenharia Cognitiva e Mapas Mentais"
+              "title": "Links inversos para Engenharia Cognitiva - Semiótica e Metáforas"
             }
           },
           {
@@ -214,8 +214,11 @@
   },
   "active": "565499338bc5784a",
   "lastOpenFiles": [
-    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/0. Interface Humano-Computador.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/AULA-03e04-2025-1-IHC_EngenhariaCognitiva e Semiótica.pdf",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/1. Engenharia Cognitiva e Mapas Mentais.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Engenharia Cognitiva - Semiótica e Metáforas.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-02-2025-2-IHC_EngenhariaCognitiva.pdf",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/0. Interface Humano-Computador.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-01-2025-2-IHCApresentaçãoDaDisciplina.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_4_estrategias_ramificacao.pdf",
@@ -236,7 +239,6 @@
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/0. Atividade de Extensão II.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/1. Apresentação da Abordagem.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Atividades/1. ERP Centralizado.md",
-    "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Documentos/Atividade de Extensão 2.pdf",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Atividades/0. Loja Online e Gerencia de Projetos.md",
     "Anotações/Estrutura do Repositorio.md",
     "Sem título.md",
@@ -248,8 +250,6 @@
     "Semestres/1° Semestre/INTRODUÇÃO À COMPUTAÇÃO/Controle de versão, Git e GitHub.md",
     "Semestres/1° Semestre/Primeiro Semestre.md",
     "Semestres/1° Semestre/PENSAMENTO COMPUTACIONAL E ALGORITMOS/Arrays - Java.md",
-    "Semestres/1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md",
-    "Semestres/1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Matrizes.md",
     "PROJETOS/Lanchonete/Sem título.canvas",
     "Materiais/PDFs/3° Semestre/erdplus (2).png"
   ]
