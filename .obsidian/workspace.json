@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
+                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/1. Engenharia Cognitiva e Mapas Mentais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Fundamentos de repositório e fluxo de trabalho"
+              "title": "1. Engenharia Cognitiva e Mapas Mentais"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "8d00e83ff418b319",
         "type": "tabs",
-        "dimension": 64.24242424242425,
+        "dimension": 75.64102564102564,
         "children": [
           {
             "id": "aa6a339e5f637a89",
@@ -80,7 +80,7 @@
       {
         "id": "297eb30dd09c908d",
         "type": "tabs",
-        "dimension": 35.75757575757576,
+        "dimension": 24.358974358974358,
         "children": [
           {
             "id": "1f805050115015a2",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
+                "file": "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/1. Engenharia Cognitiva e Mapas Mentais.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2. Fundamentos de repositório e fluxo de trabalho"
+              "title": "Links inversos para 1. Engenharia Cognitiva e Mapas Mentais"
             }
           },
           {
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.50499725341797
+    "width": 427.5041847229004
   },
   "right": {
     "id": "2866f29674c22a86",
@@ -212,14 +212,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aa6a339e5f637a89",
+  "active": "565499338bc5784a",
   "lastOpenFiles": [
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/0. Interface Humano-Computador.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/1. Engenharia Cognitiva e Mapas Mentais.md",
+    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-01-2025-2-IHCApresentaçãoDaDisciplina.pdf",
+    "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_4_estrategias_ramificacao.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/1. Introdução, evolução da prática e ciclo de vida.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/0. Engenharia de Software II.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Atividades/2.1 Atividade prática 1.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_atividade1.pdf",
-    "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_3_governanca_repositorios.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_2_evolucao_do_software.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_1_ciclo_de_vida.pdf",
@@ -234,9 +237,7 @@
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/1. Apresentação da Abordagem.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Atividades/1. ERP Centralizado.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Documentos/Atividade de Extensão 2.pdf",
-    "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Documentos/Projetos I - Introdução.pdf",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Atividades/0. Loja Online e Gerencia de Projetos.md",
-    "Semestres",
     "Anotações/Estrutura do Repositorio.md",
     "Sem título.md",
     "Análise e Desenvolvimento de Sistemas - IFSC.md",
@@ -249,7 +250,6 @@
     "Semestres/1° Semestre/PENSAMENTO COMPUTACIONAL E ALGORITMOS/Arrays - Java.md",
     "Semestres/1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Determinantes.md",
     "Semestres/1° Semestre/FUNDAMENTOS DA MATEMÁTICA/Matrizes.md",
-    "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/1- Ciclos de Desenvolvimento.md",
     "PROJETOS/Lanchonete/Sem título.canvas",
     "Materiais/PDFs/3° Semestre/erdplus (2).png"
   ]
