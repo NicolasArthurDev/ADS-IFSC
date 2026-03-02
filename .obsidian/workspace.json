@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Aplicações web e backends.md",
+                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Aplicações web e backends"
+              "title": "2. Introdução a protocolo HTTP"
             }
           }
         ]
@@ -33,7 +33,6 @@
       {
         "id": "8d00e83ff418b319",
         "type": "tabs",
-        "dimension": 75.64102564102565,
         "children": [
           {
             "id": "aa6a339e5f637a89",
@@ -73,46 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
-            }
-          }
-        ]
-      },
-      {
-        "id": "297eb30dd09c908d",
-        "type": "tabs",
-        "dimension": 24.358974358974358,
-        "children": [
-          {
-            "id": "1f805050115015a2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Aplicações web e backends.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para 1. Aplicações web e backends"
-            }
-          },
-          {
-            "id": "653f6b032a825779",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "3° Semestre/PROGRAMAÇÃO FRONTEND II/Laboratório 4.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para Laboratório 4"
             }
           }
         ]
@@ -160,18 +119,6 @@
             }
           },
           {
-            "id": "428067c3db2cd536",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
             "id": "55a8c0e5752ac115",
             "type": "leaf",
             "state": {
@@ -192,7 +139,58 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "84cecbcb2ad06ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428067c3db2cd536",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "1f805050115015a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 2. Introdução a protocolo HTTP"
+            }
+          },
+          {
+            "id": "653f6b032a825779",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 2. Introdução a protocolo HTTP"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,11 +212,12 @@
   },
   "active": "e6853c624dbdb49a",
   "lastOpenFiles": [
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Aplicações web e backends.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Atividade.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Atividades",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302020919.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Aplicações web e backends.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302020929.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/0. Aula de Apresentação.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 3",
