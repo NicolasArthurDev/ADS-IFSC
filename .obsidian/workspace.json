@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "5. Design Acessível e Sustentável"
             }
+          },
+          {
+            "id": "e2455a537827b2bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +46,7 @@
       {
         "id": "8d00e83ff418b319",
         "type": "tabs",
-        "dimension": 75.64102564102564,
+        "dimension": 75.64102564102565,
         "children": [
           {
             "id": "aa6a339e5f637a89",
@@ -212,7 +225,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aa6a339e5f637a89",
+  "active": "e2455a537827b2bd",
   "lastOpenFiles": [
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-06-2025-2-IHC Design Acessível e Sustentável.pdf",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/4. Design Emocional.md",
