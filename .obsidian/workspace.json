@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2. Introdução a protocolo HTTP"
             }
+          },
+          {
+            "id": "5d0abea45e85462f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,11 +221,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aa6a339e5f637a89",
+  "active": "5d0abea45e85462f",
   "lastOpenFiles": [
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302021734.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Aplicações web e backends.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Atividade.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Atividades",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302020919.png",
