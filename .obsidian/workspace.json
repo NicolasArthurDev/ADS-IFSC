@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/3.1 Atividade Crie um backend que fornece data ou horário.md",
+                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/3.2 Atividade Crie um backend que fornece arquivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Atividade Crie um backend que fornece data ou horário"
+              "title": "3.2 Atividade Crie um backend que fornece arquivos"
             }
           }
         ]
@@ -213,6 +213,7 @@
   "active": "aa6a339e5f637a89",
   "lastOpenFiles": [
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/3. Servidor HTTP básico em Java.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/3.2 Atividade Crie um backend que fornece arquivos.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/3.1 Atividade Crie um backend que fornece data ou horário.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/2.1 Atividade Análise da comunicação de uma aplicação web.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/2. Introdução a protocolo HTTP.md",
@@ -257,7 +258,6 @@
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 2",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/1. Introdução, evolução da prática e ciclo de vida.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/0. Engenharia de Software II.md",
-    "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Atividades/2.1 Atividade prática 1.md",
     "PROJETOS/Lanchonete/Sem título.canvas"
   ]
 }
