@@ -8,149 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/FUNDAMENTOS DA MATEMÁTICA\"  ",
+      "query": "path: \"Semestres/1° Semestre\"  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/FUNDAMENTOS DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES\"",
+      "query": "path: \"Semestres/2° Semestre\"  ",
       "color": {
         "a": 1,
-        "rgb": 2031360
+        "rgb": 16514816
       }
     },
     {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/INGLÊS INSTRUMENTAL I\"  ",
+      "query": "path: \"Semestres/3° Semestre\"  ",
       "color": {
         "a": 1,
-        "rgb": 28415
+        "rgb": 65280
       }
     },
     {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/INTRODUÇÃO À COMPUTAÇÃO\"  ",
+      "query": "path: \"Semestres/4° Semestre\"  ",
       "color": {
         "a": 1,
-        "rgb": 16750080
+        "rgb": 16639
       }
     },
     {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/LÓGICA MATEMÁTICA\"  ",
+      "query": "path: \"Semestres/5° Semestre\"  ",
       "color": {
         "a": 1,
-        "rgb": 65450
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/1° Semestre/PENSAMENTO COMPUTACIONAL E ALGORITMOS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12255487
-      }
-    },
-    {
-      "query": "file: Semestre",
-      "color": {
-        "a": 1,
-        "rgb": 16766720
-      }
-    },
-    {
-      "query": "file: Análise",
-      "color": {
-        "a": 1,
-        "rgb": 16766720
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/REDES DE COMPUTADORES\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2031360
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/PROGRAMAÇÃO ORIENTADA A OBJETOS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12255487
-      }
-    },
-    {
-      "query": "path: \"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/COMUNICAÇÃO E EXPRESSÃO\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16750080
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/FUNDAMENTOS DE PROBABILIDADE E ESTATÍSTICA\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/ATIVIDADES DE EXTENSÃO I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/2° Semestre/PROGRAMAÇÃO FRONTEND I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/3° Semestre/PROGRAMAÇÃO FRONTEND II\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65450
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/3° Semestre/SEGURANÇA DA INFORMAÇÃO\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12255487
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/3° Semestre/ESTRUTURA DE DADOS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/3° Semestre/ENGENHARIA DE SOFTWARE I\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16753152
-      }
-    },
-    {
-      "query": "path:\"Análise e Desenvolvimento de Sistemas - IFSC/3° Semestre/BANCO DE DADOS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3709183
+        "rgb": 11403519
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.3,
   "nodeSizeMultiplier": 0.878385416666667,
   "lineSizeMultiplier": 0.7125,
   "collapse-forces": false,
-  "centerStrength": 0.257633736821554,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 1,
+  "linkStrength": 0.596040168079197,
   "linkDistance": 30,
-  "scale": 0.02945538303298401,
-  "close": true
+  "scale": 0.012886899510771991,
+  "close": false
 }
