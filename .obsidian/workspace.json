@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5fba20c9b25eaf67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4be9e057bd7acbcb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +210,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4be9e057bd7acbcb",
+  "active": "ffb5036bd4c4fd80",
   "lastOpenFiles": [
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/6. Definição do Projeto Principal - Brainstorms.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/AULA-07e08-20261-1-IHC - Definição do Projeto Principal e Metodologias Ágeis.pdf",
