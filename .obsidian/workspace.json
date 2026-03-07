@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c5c6dab0b62ab3e",
+        "id": "5fba20c9b25eaf67",
         "type": "tabs",
         "children": [
           {
-            "id": "e6853c624dbdb49a",
+            "id": "4be9e057bd7acbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Atividades/2.2 Atividade Crie um cliente HTTP.md",
+                "file": "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/3. Definição de Projetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Atividade Crie um cliente HTTP"
+              "title": "3. Definição de Projetos"
             }
           }
         ]
@@ -210,12 +210,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e6853c624dbdb49a",
+  "active": "4be9e057bd7acbcb",
   "lastOpenFiles": [
+    "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/2. Exercícios (Feriado).md",
+    "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/3. Definição de Projetos.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Atividades/2.2 Atividade Crie um cliente HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/2. Introdução a protocolo HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Aplicações web e backends.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Atividades/2.1 Atividade Análise da comunicação de uma aplicação web.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Atividades/2.2 Atividade Crie um cliente HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221155.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302222238.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens",
@@ -252,12 +254,10 @@
     "Semestres/4° Semestre/Resumo Semanal/2026-02-28.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/0. Aula de Apresentação.md",
     "Semestres/4° Semestre/Quarto Semestre.md",
-    "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/2. Exercícios (Feriado).md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/0. Atividade de Extensão II.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/1. Apresentação da Abordagem.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Atividades/1. ERP Centralizado.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/Atividades/0. Loja Online e Gerencia de Projetos.md",
-    "Anotações/Estrutura do Repositorio.md",
     "PROJETOS/Lanchonete/Sem título.canvas"
   ]
 }
