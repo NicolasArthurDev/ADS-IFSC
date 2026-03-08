@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f3e74bf449f18ee",
+        "id": "325097c5c0fda332",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc9ce777908a22b",
+            "id": "41eee3c6bf1f9ff2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/5. Introdução ao Framework Java Spring Boot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Introdução ao Framework Java Spring Boot"
             }
           }
         ]
@@ -206,19 +210,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ffc9ce777908a22b",
+  "active": "41eee3c6bf1f9ff2",
   "lastOpenFiles": [
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/3. Servidor HTTP básico em Java.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/3.2 Atividade Crie um backend que fornece arquivos.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Pasted image 20260308202318.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Pasted image 20260308202308.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Pasted image 20260308202259.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/spring-boot-intro.pdf",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Atividades",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/4. Funcionalidades usualmente requeridas em backend.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/5. Introdução ao Framework Java Spring Boot.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/3. Servidor HTTP básico em Java.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Atividades/3.2 Atividade Crie um backend que fornece arquivos.md",
     "Semestres/4° Semestre/Quarto Semestre.md",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/0. Introdução a Sistemas Operacionais.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/0. Aula de Apresentação.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/0. Atividade de Extensão II.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/3.1 Atividade Crie um backend que fornece data ou horário.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/2.1 Atividade Análise da comunicação de uma aplicação web.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/2. Introdução a protocolo HTTP.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/1. Aplicações web e backends.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Atividades/3.1 Atividade Crie um backend que fornece data ou horário.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Atividades/2.1 Atividade Análise da comunicação de uma aplicação web.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/2. Introdução a protocolo HTTP.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/1. Aplicações web e backends.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução",
     "Semestres/4° Semestre/Resumo Semanal/2026-03-07.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/7. Definição do Projeto Principal - Metodologias Ágeis no Desenvolvimento de Software.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-07e08-20261-1-IHC - Definição do Projeto Principal e Metodologias Ágeis (1).pdf",
@@ -236,8 +249,6 @@
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_5_gerenciamento_agil.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/3. Definição de Projetos.md",
-    "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/2. Exercícios (Feriado).md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades/2.2 Atividade Crie um cliente HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221155.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302222238.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens",
@@ -246,14 +257,7 @@
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221900.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Atividades/Pasted image 20260302221707.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221709.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302021734.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Atividade.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Introdução/Atividades",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302020919.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/Documentos/Pasted image 20260302020929.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 3",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 2",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Documentos/Pasted image 20260302021734.png",
     "PROJETOS/Lanchonete/Sem título.canvas"
   ]
 }
