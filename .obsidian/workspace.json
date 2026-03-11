@@ -11,14 +11,12 @@
             "id": "41eee3c6bf1f9ff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/5. Introdução ao Framework Java Spring Boot.md",
-                "mode": "source",
-                "source": false
+                "file": "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202926.png"
               },
-              "icon": "lucide-file",
-              "title": "5. Introdução ao Framework Java Spring Boot"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260308202926"
             }
           }
         ]
@@ -210,16 +208,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41eee3c6bf1f9ff2",
+  "active": "aa6a339e5f637a89",
   "lastOpenFiles": [
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Pasted image 20260308202318.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Pasted image 20260308202308.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Pasted image 20260308202259.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202741.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/5. Introdução ao Framework Java Spring Boot.md",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202926.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202826.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202812.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202756.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202554.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202259.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202535.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202318.png",
+    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202308.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/spring-boot-intro.pdf",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Atividades",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/4. Funcionalidades usualmente requeridas em backend.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/5. Introdução ao Framework Java Spring Boot.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/3. Servidor HTTP básico em Java.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Atividades/3.2 Atividade Crie um backend que fornece arquivos.md",
@@ -249,15 +254,7 @@
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Documentos/ES2_5_gerenciamento_agil.pdf",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/2. Fundamentos de repositório e fluxo de trabalho.md",
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/3. Definição de Projetos.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221155.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302222238.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302222237.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302222045.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221900.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Atividades/Pasted image 20260302221707.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Documentos/Imagens/Pasted image 20260302221709.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Documentos/Pasted image 20260302021734.png",
     "PROJETOS/Lanchonete/Sem título.canvas"
   ]
 }
