@@ -25,12 +25,14 @@
             "id": "f1202c49a3d06513",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Semestres/4° Semestre/Resumo Semanal/2026-05-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.7"
+              "icon": "lucide-file",
+              "title": "2026-05-09"
             }
           }
         ],
@@ -223,13 +225,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f1202c49a3d06513",
+  "active": "428067c3db2cd536",
   "lastOpenFiles": [
+    "Semestres/4° Semestre/Resumo Semanal/2026-05-09.md",
+    "Semestres/4° Semestre/Resumo Semanal/2026-02-28.md",
+    "Semestres/4° Semestre/Quarto Semestre.md",
+    "Anotações/Estrutura do Repositorio.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/2. Introdução a protocolo HTTP.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/3. Servidor HTTP básico em Java.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/1. Aplicações web e backends.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/0. Aula de Apresentação.md",
-    "Semestres/4° Semestre/Quarto Semestre.md",
     "Análise e Desenvolvimento de Sistemas - IFSC.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/3. Gerenciamento do processo e de projetos.md",
     "Semestres/4° Semestre/Disciplinas/ENGENHARIA DE SOFTWARE II/Atividades/3.4 Atividade prática 3.md",
@@ -268,9 +273,6 @@
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/7. Definição do Projeto Principal - Metodologias Ágeis no Desenvolvimento de Software.md",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/Documentos/AULA-07e08-20261-1-IHC - Definição do Projeto Principal e Metodologias Ágeis (1).pdf",
     "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/6. Definição do Projeto Principal - Brainstorms.md",
-    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/5. Design Acessível e Sustentável.md",
-    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/4. Design Emocional.md",
-    "Semestres/4° Semestre/Disciplinas/INTERFACE HUMANO-COMPUTADOR/3. Implementação - Engenharia Cognitiva - Semiótica e Metáforas.md",
     "PROJETOS/Lanchonete/Sem título.canvas"
   ]
 }
