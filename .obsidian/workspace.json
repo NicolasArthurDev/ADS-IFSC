@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/1. Funções na Linguagem C, Arranjos unidimensionais/0. Funções em C.md",
+                "file": "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/2. Arranjos Multidimensionais. Ponteiros/0. Arranjos Multidimensionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Funções em C"
+              "title": "0. Arranjos Multidimensionais"
             }
           }
         ]
@@ -210,14 +210,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f1202c49a3d06513",
+  "active": "aa6a339e5f637a89",
   "lastOpenFiles": [
-    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/0. Plano de Ensino. Introdução a Linguagem C/2. Comandos de repetição no C.md",
+    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/1. Funções na Linguagem C, Arranjos unidimensionais/2. Vetores de 'char'.md",
+    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/2. Arranjos Multidimensionais. Ponteiros/0. Arranjos Multidimensionais.md",
+    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/2. Arranjos Multidimensionais. Ponteiros",
+    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/1. Funções na Linguagem C, Arranjos unidimensionais/1. Vetores em C.md",
+    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/0. Introdução a Sistemas Operacionais.md",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/1. Funções na Linguagem C, Arranjos unidimensionais/0. Funções em C.md",
+    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/0. Plano de Ensino. Introdução a Linguagem C/2. Comandos de repetição no C.md",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/0. Plano de Ensino. Introdução a Linguagem C/1. Comandos de decisão no C.md",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/0. Plano de Ensino. Introdução a Linguagem C/0. Introdução ao C.md",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/1. Funções na Linguagem C, Arranjos unidimensionais",
-    "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/0. Introdução a Sistemas Operacionais.md",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1/0. Plano de Ensino. Introdução a Linguagem C",
     "Semestres/4° Semestre/Disciplinas/SISTEMAS OPERACIONAIS/Unidade 1",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Atividades/2.1 Atividade Análise da comunicação de uma aplicação web.md",
@@ -244,7 +248,6 @@
     "Semestres/4° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO II/2. Exercícios (Feriado).md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202926.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202741.png",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/5. Introdução ao Framework Java Spring Boot.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202826.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202812.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202756.png",
@@ -255,9 +258,6 @@
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202308.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/spring-boot-intro.pdf",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Atividades",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/4. Funcionalidades usualmente requeridas em backend.md",
-    "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/0. Introdução/Atividades/3.2 Atividade Crie um backend que fornece arquivos.md",
     "PROJETOS/Lanchonete/Sem título.canvas"
   ]
 }
