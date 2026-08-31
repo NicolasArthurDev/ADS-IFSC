@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/5° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO III/0. Atividades de Extensão III.md",
+                "file": "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 3 - Orientação a objetos em Kotlin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Atividades de Extensão III"
+              "title": "Laboratório 3 - Orientação a objetos em Kotlin"
             }
           }
         ]
@@ -215,6 +215,10 @@
   },
   "active": "18457bb21b396f36",
   "lastOpenFiles": [
+    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/4. Kotlin - Orientação a Objetos.md",
+    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/0. Programação para Aplicativos Móveis.md",
+    "Semestres/5° Semestre/Quinto Semestre.md",
+    "Semestres/5° Semestre/Disciplinas/ATIVIDADES DE EXTENSÃO III/0. Atividades de Extensão III.md",
     "Semestres/5° Semestre/Disciplinas/TÓPICOS ESPECIAIS/2. Level Design.md",
     "Semestres/5° Semestre/Disciplinas/TÓPICOS ESPECIAIS/1. Projeto da disciplina.md",
     "Semestres/5° Semestre/Disciplinas/TÓPICOS ESPECIAIS/0. Tópicos Especiais.md",
@@ -235,11 +239,9 @@
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/7. Interfaces de usuário com Android Compose.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/6. Introdução ao desenvolvimento Android.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/5. Kotlin - Outros conceitos da linguagem.md",
-    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/4. Kotlin - Orientação a Objetos.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/3. Kotlin - Funções, lambdas e coleções.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/2. Kotlin - Conceitos básicos.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/1. Visão geral da computação móvel e dispositivos.md",
-    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/0. Programação para Aplicativos Móveis.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-projeto-1.pdf",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-lab_7.pdf",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-lab_6.pdf",
@@ -249,8 +251,6 @@
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-lab_2.pdf",
     "Semestres/5° Semestre/Disciplinas/INTRODUÇÃO À CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA/Atividades/Atividade 5 - Treinamento de uma Rede Neural.md",
     "Semestres/5° Semestre/Disciplinas/INTRODUÇÃO À CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA/Atividades/Atividade 4 - Treinamento de uma rede neural.md",
-    "Semestres/5° Semestre/Disciplinas/INTRODUÇÃO À CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA/Atividades/Atividade 3 - Funcionamento de um neurônio e rede neural.md",
-    "Semestres/5° Semestre/Disciplinas/INTRODUÇÃO À CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA/Atividades/Atividade 2 - Preparação dos Dados e Notebook de exploração.md",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202926.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202741.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202826.png",
