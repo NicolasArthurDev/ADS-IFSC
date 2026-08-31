@@ -16,4 +16,13 @@ Sistema em modo console para modelar pedidos de uma lanchonete/delivery:
 4. `data class Pedido` com `id: Int`, `cliente: String`, `itens: List<Pair<ItemPedido, Int>>` e `status: StatusPedido` (valor inicial `NOVO`)
 5. No `main()`, uma coleção com pelo menos 3 pedidos e itens variados
 
+## O que preciso no projeto
+Dependência de coroutines no `build.gradle.kts`:
+```kotlin
+dependencies {
+  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
+}
+```
+No `main()`, usar `runBlocking`, processar pedidos sequencialmente e depois concorrentemente com `coroutineScope + async/await`, medindo e comparando os tempos.
+
 ![[MOV-lab_4.pdf]]
