@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 3 - Orientação a objetos em Kotlin.md",
+                "file": "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 1 - Sintaxe básica de Kotlin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laboratório 3 - Orientação a objetos em Kotlin"
+              "title": "Laboratório 1 - Sintaxe básica de Kotlin"
             }
           }
         ]
@@ -215,6 +215,9 @@
   },
   "active": "18457bb21b396f36",
   "lastOpenFiles": [
+    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 2 - Funções em Kotlin.md",
+    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 1 - Sintaxe básica de Kotlin.md",
+    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 3 - Orientação a objetos em Kotlin.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/Material Labs/faces-of-opensource.zip",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/Material Labs/texto-fos.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/Material Labs/disciplinas.zip",
@@ -236,9 +239,6 @@
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 6 - Estados com Jetpack Compose.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 5 - Composições e layouts no Android.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 4 - Outros conceitos em Kotlin.md",
-    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 3 - Orientação a objetos em Kotlin.md",
-    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 2 - Funções em Kotlin.md",
-    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Atividades/Laboratório 1 - Sintaxe básica de Kotlin.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/9. Listas e Grades com JetPack Compose.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/8. Estados e ViewModel com JetPack Compose.md",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/7. Interfaces de usuário com Android Compose.md",
@@ -250,7 +250,6 @@
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-projeto-1.pdf",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-lab_7.pdf",
     "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-lab_6.pdf",
-    "Semestres/5° Semestre/Disciplinas/PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS/Documentos/MOV-lab_5.pdf",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202926.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202741.png",
     "Semestres/4° Semestre/Disciplinas/PROGRAMAÇÃO BACKEND/Unidade 1/1. Spring Boot/Documentos/Pasted image 20260308202826.png",
